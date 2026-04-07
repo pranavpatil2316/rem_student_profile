@@ -111,8 +111,8 @@ assignments = {
     "💧 5. Biomass, Hydro & Geothermal": "https://viteduin59337-my.sharepoint.com/:b:/g/personal/pranav_patil22_vit_edu_in/IQD9QLg76dhpSbEZQkUxvWNoAc2QuJ5axRcOydnCFr6U6e0?e=Kdpwai",
     "🌍 6. Smart Poster - Solar Plant": "https://viteduin59337-my.sharepoint.com/:b:/g/personal/pranav_patil22_vit_edu_in/IQAfXmDIT18RQ6lcmi3NrQ73ASzkj0xss8giWiS_HWTRQu8?e=Gq0fMo",
     "🔋 7. Era of Energy Disruption": "https://notebooklm.google.com/notebook/6c17b708-bee3-4cd7-816c-3e9ec21c7609?artifactId=8c84318b-ddff-4eb5-87d6-8a3e22e6bddf&classId=29f5a994-116f-44ab-a2a2-f2f4bc03067a&assignmentId=c34ee5fb-fa17-4645-9d3d-bd1faabdb96e&submissionId=01ac8c41-5d74-8a0f-0339-2a0257cd8590&pli=1&authuser=1&pageId=none",
-    "🌿 8. IEEE Research Paper": "https://your-link-8",
-    "📊 Final Report": "https://your-link-9",
+    "🌿 8. IEEE Research Paper": "https://viteduin59337-my.sharepoint.com/:b:/g/personal/pranav_patil22_vit_edu_in/IQCLbIlq8JafQ5Q5tCBmkaYiAc05UsFzSpnXxJvyQd74jOs?e=Pz4K3d",
+    "📊 Report": "https://viteduin59337-my.sharepoint.com/:i:/g/personal/pranav_patil22_vit_edu_in/IQBdWCDlpGNgQLFM30yBMogtAd4eHrJYqyMP7G1_DaCq2-0?e=hyzHTW",
 }
 
 cols = st.columns(3)
