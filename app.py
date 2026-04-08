@@ -104,7 +104,7 @@ st.sidebar.write("Department of Electronics and Computer Science")
 st.markdown("<h2 style='color:white;'>📂 Assignments</h2>", unsafe_allow_html=True)
 
 assignments = {
-    "🌍 1. National Energy Scenario": "https://viteduin59337-my.sharepoint.com/:b:/g/personal/pranav_patil22_vit_edu_in/IQAfXmDIT18RQ6lcmi3NrQ73ASzkj0xss8giWiS_HWTRQu8?e=h1k2fw",
+    "🌍 1. National Energy Scenario": "https://viteduin59337-my.sharepoint.com/:b:/g/personal/pranav_patil22_vit_edu_in/IQAqPWjrZvYLR4k0LpUhYjJNAdsIHbg6zZVINvlzi-baTew?e=U1tfFQ",
     "🌬️ 2. Types of Renewable Energy": "https://viteduin59337-my.sharepoint.com/:b:/g/personal/pranav_patil22_vit_edu_in/IQAh9DRWICUpT5Jb69RPAmL8AYWeGR4AMQR4mvPXfzBOsWc?e=4EG3Mt",
     "🌞 3. Solar Thermal Energy": "https://viteduin59337-my.sharepoint.com/:b:/g/personal/pranav_patil22_vit_edu_in/IQD8YvLLKvXIQ7ZA_GkAlWajAQRJQTnRLl_E6bGsPfrYFp4?e=mwS1DS",
     "🏭 4. Energy Utility Dashboard": "https://vit-spark-harmony.lovable.app/",
